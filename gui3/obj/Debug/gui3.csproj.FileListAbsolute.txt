@@ -1,0 +1,11 @@
+D:\projects\read_exif\gui3\gui3\bin\Debug\gui3.exe.config
+D:\projects\read_exif\gui3\gui3\obj\Debug\gui3.Form1.resources
+D:\projects\read_exif\gui3\gui3\obj\Debug\gui3.Form2.resources
+D:\projects\read_exif\gui3\gui3\obj\Debug\gui3.Properties.Resources.resources
+D:\projects\read_exif\gui3\gui3\obj\Debug\gui3.csproj.GenerateResource.Cache
+D:\projects\read_exif\gui3\gui3\bin\Debug\gui3.exe
+D:\projects\read_exif\gui3\gui3\bin\Debug\gui3.pdb
+D:\projects\read_exif\gui3\gui3\bin\Debug\ExifLib.dll
+D:\projects\read_exif\gui3\gui3\obj\Debug\gui3.csprojResolveAssemblyReference.cache
+D:\projects\read_exif\gui3\gui3\obj\Debug\gui3.exe
+D:\projects\read_exif\gui3\gui3\obj\Debug\gui3.pdb
