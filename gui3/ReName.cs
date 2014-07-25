@@ -230,7 +230,7 @@ namespace HtLib
         static char DetectSplit(string name)
         {
             char bracket = '(';
-            char minus = '-';
+            char minus = '_';
             char space = ' ';
 
             if (!(name.Split(space).Length == 1))
